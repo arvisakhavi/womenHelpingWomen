@@ -1,0 +1,50 @@
+body {
+    font-family: Georgia;
+    font-size: 19px;
+    text-align: left;
+    color: mediumpurple;
+    box-shadow: 0px 1px 3px #666666;
+    box-shadow: 7px 4px 20px #7f7d7d;
+    backround-image: linear-gradient();
+}
+
+#whw {
+    border: 3px solid;
+    border-radius: 3px;
+    text-shadow: 1px 1px 1px #666666;
+}
+
+h4{
+    margin: 5px;
+}
+
+img {
+    background-image: url(https://www.occupy.com/sites/default/files/field/image/Home-Slide.jpg);
+}
+
+#title2{
+    margin-left: 20px;
+}
+
+#title3{
+    margin-left: 40px;
+}
+
+#navigation{
+    text-align: center;
+}
+
+.navbar{
+    display: inline-block;
+    margin: 10px 70px;
+    background-color: white;
+}
+
+.navbar:hover{
+    background-color: gainsboro;
+}
+
+h4::first-letter{
+    font-size: 26px;
+    color: violet;
+}
